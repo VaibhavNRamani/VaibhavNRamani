@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **ramanivaibhav19@gmail.com**
 
-- 📄 Know about my experiences [www.linkedin.com/in/vaibhav-ramani-74281a224](www.linkedin.com/in/vaibhav-ramani-74281a224)
+- 📄 Know about my experiences [https://www.linkedin.com/in/vaibhav-ramani-74281a224/](https://www.linkedin.com/in/vaibhav-ramani-74281a224/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
