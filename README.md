@@ -5,12 +5,12 @@
 
 - 📫 How to reach me **ramanivaibhav19@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/vaibhav-ramani-74281a224/](https://www.linkedin.com/in/vaibhav-ramani-74281a224/)
+- 📄 Know about my experiences [www.linkedin.com/in/vaibhavnr/](www.linkedin.com/in/vaibhavnr/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@vaibhav82356854" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@vaibhav82356854" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/vaibhav-ramani-74281a224/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/vaibhav-ramani-74281a224" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/vaibhavnr/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/vaibhavnr/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
