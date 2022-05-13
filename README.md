@@ -15,5 +15,4 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> </p>
-<p align="left"> <a  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Flogos.fandom.com%2Fwiki%2FMicrosoft_Visual_Studio&psig=AOvVaw16bKPbPbu3_BRa8Ko6xM5Y&ust=1652497125947000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCJjP29O92_cCFQAAAAAdAAAAABAI" alt="shails" width="40" height="40"/> </a> </p>
-
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Flogos.fandom.com%2Fwiki%2FMicrosoft_Visual_Studio&psig=AOvVaw16bKPbPbu3_BRa8Ko6xM5Y&ust=1652497125947000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCJjP29O92_cCFQAAAAAdAAAAABAI" width="40" height="40"/> </a> </p>
