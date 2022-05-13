@@ -15,4 +15,4 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> </p>
-<p align="left"> <a href="https://visualstudio.microsoft.com/wp-content/uploads/2021/10/Product-Icon.svg" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://static.wikia.nocookie.net/logopedia/images/3/3c/Brand_Visual_Studio_Win_2019_Preview.png/revision/latest/scale-to-width-down/250?cb=20190420234326" width="40" height="40"/> </a> </p>
